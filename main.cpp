@@ -29,6 +29,7 @@ int start;
 #define GREATER_THAN_X 2
 #define SMALLER_THAN_X 3
 
+//src: http://www.cplusplus.com/forum/general/43203/
 using namespace std;
 #include "cstdlib"
 #include <sys/timeb.h>
